@@ -46,7 +46,7 @@ This project analyzes 12 months of sales data to uncover revenue trends, evaluat
 ---
 
 📸 Dashboard Preview
-
+sales Dashboard preview.png
 
 
 ---
