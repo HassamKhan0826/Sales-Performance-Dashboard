@@ -1,7 +1,13 @@
 📊 Sales Performance Dashboard | Excel & Power BI
 
 📌 Overview
-This project analyzes 12 months of sales data to uncover revenue trends, evaluate regional performance, and identify key business insights using Excel and Power BI.
+This project analyzes 12 months of sales data to uncover revenue trends, evaluate regional performance, and generate actionable business insights using Excel and Power BI.
+
+---
+
+📸 Dashboard Preview
+
+![Sales Dashboard](image/dashboard-preview.png)
 
 ---
 
@@ -12,43 +18,46 @@ This project analyzes 12 months of sales data to uncover revenue trends, evaluat
 
 ---
 
+🚀 Project Highlights
+- Cleaned and processed 12 months of raw sales data  
+- Resolved missing values and duplicates to improve data quality  
+- Built an interactive Power BI dashboard with dynamic slicers  
+- Designed KPIs including Total Revenue, Growth %, and Units Sold  
+- Visualized revenue trends, product performance, and regional insights  
+- Identified a 22% revenue decline in Q3 and analyzed root causes  
+
+---
+
 🔄 Process
 
-1. Data Cleaning (Excel)
+### 1. Data Cleaning (Excel)
 - Removed duplicate records  
 - Handled missing values  
-- Standardized data formats  
-- Achieved ~95% data accuracy
+- Standardized formats for consistency  
+- Ensured high data accuracy for analysis  
 
 2. Data Visualization (Power BI)
-- Built interactive dashboard with:
-- Revenue trends (monthly & quarterly)
-- Top-performing products
-- Regional performance comparison
-- Key performance indicators (KPIs)
-- Used DAX for calculated measures
-- Added slicers for dynamic filtering
+- Developed an interactive dashboard including:
+- Revenue trends (monthly & quarterly)  
+- Top-performing products  
+- Regional performance comparison  
+- Key KPIs (Revenue, Growth %, Units Sold)  
+- Used DAX for calculated measures  
+- Implemented slicers for dynamic filtering  
 
 ---
 
 📊 Key Insights
-- Identified a **22% revenue drop in Q3**
-- Found underperforming regions affecting overall growth
-- Highlighted top revenue-generating products
+- Identified a **22% revenue drop in Q3**  
+- Detected underperforming regions impacting overall performance  
+- Highlighted top products driving revenue  
 
 ---
 
 💡 Business Recommendations
-- Targeted promotions in weak regions  
-- Improved inventory distribution strategy  
-- Data-driven regional performance tracking  
-
----
-
-📸 Dashboard Preview
-
-![Sales Dashboard](image/dashboard-preview.png)
-
+- Implement targeted promotions in low-performing regions  
+- Optimize inventory allocation based on demand patterns  
+- Use dashboard insights for ongoing performance monitoring  
 
 ---
 
@@ -58,4 +67,8 @@ This project is for portfolio demonstration only. All rights reserved.
 ---
 
 👤 Author
-[Hassam Bin Tariq]
+[Hassam Bin Tariq] 
+
+---
+
+
