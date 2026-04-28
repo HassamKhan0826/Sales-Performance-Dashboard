@@ -1,0 +1,12 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Power BI temp
+*.pbix.autosave
+
+# Excel temp
+~$*.xlsx
