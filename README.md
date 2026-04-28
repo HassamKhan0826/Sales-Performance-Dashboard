@@ -7,7 +7,7 @@ This project analyzes 12 months of sales data to uncover revenue trends, evaluat
 
 📸 Dashboard Preview
 
-![Sales Dashboard](image/dashboard-preview.png)
+![Sales Dashboard](image/powerbi-dashboard.png)
 
 ---
 
